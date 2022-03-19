@@ -1,2 +1,2 @@
 my github profile.
-[https://github.com/GuturiDhanushkumar]
+[profile](https://github.com/GuturiDhanushkumar)
